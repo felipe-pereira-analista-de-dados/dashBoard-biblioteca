@@ -1,2 +1,2 @@
-# dashBoard-biblioteca
-Estudando dashboar em power BI
+# DashBoard-biblioteca
+Estudando dashboard em power BI, usando dados de uma loja de livros
