@@ -14,11 +14,4 @@ Primeiro desenvolvi um relatório que tem uma lista dos generos dos livros, onde
 Aprendi a desenvolver dashboards utilizando o método DAX e também na criação de lista para selecionar com filtro de pesquisa.
 
 
-## Funcionalidades
-
-- Temas dark e light
-- Preview em tempo real
-- Modo tela cheia
-- Multiplataforma
-
 
